@@ -29,17 +29,7 @@ public class ForgotPassword {
 		return driver.findElement(email);
 		System.out.println("My Name is Avish");
 		System.out.println("My Name is Avish");
-		System.out.println("My Name is Avish");
-		System.out.println("My Name is Avish");
-		System.out.println("My Name is Navish");
-		System.out.println("My Name is dev");
-		System.out.println("My Name is dev1");
-		System.out.println("My Name is dev2");
-	
-	
-	
 	}
-	
 	
 	public WebElement sendMeInstructions()
 	{

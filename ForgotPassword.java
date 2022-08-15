@@ -31,7 +31,9 @@ public class ForgotPassword {
 		System.out.println("My Name is Avish");
 		System.out.println("My Name is Avish");
 		System.out.println("My Name is Avish");
+		System.out.println("My Name is Navish");
 	}
+	
 	
 	public WebElement sendMeInstructions()
 	{

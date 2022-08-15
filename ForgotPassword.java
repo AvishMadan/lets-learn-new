@@ -36,7 +36,9 @@ public class ForgotPassword {
 		System.out.println("My Name is dev1");
 		System.out.println("My Name is dev2");
 		System.out.println("Taking latest code from master");
+		System.out.println("Taking latest code from dev");
 		System.out.println("Taking latest code from master");
+
 	
 	
 	}
